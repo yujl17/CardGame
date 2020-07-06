@@ -17,7 +17,6 @@
 #include <QTimeLine>
 #include <qmessagebox.h>
 #include <iostream>
-#include "ques.h"
 #include <fstream>
 #include <QProgressDialog>
 #include <QThread>
